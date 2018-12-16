@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+
+    <string-array name="type">
+    <item>AM</item>
+    <item>PM</item>
+    </string-array>
+
+</resources>
